@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [linuxutils](https://github.com/ktsobus/linuxutils)
 
-- 💘🏹 [🐧](https://github.com/BurgiSimon)
+- 💘🏹 [🐧 -- click me](https://github.com/BurgiSimon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

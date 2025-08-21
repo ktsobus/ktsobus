@@ -20,6 +20,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ktsobus&show_icons=true&locale=en&layout=compact" alt="ktsobus" height="150"/>
 
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=ktsobus&label=Profile%20views&color=0e75b6&style=flat" alt="ktsobus" height="300"/>
+
+
 </div>
 
 

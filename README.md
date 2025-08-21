@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [linuxutils](https://github.com/ktsobus/linuxutils)
 
-- 💘🏹 [🐧 -- click me](https://github.com/BurgiSimon)
+- 💘🏹 [🐧 <-- click](https://github.com/BurgiSimon)
 
 <p align="left">
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">🐦🌳👀 Bird</h1>
-<h2 align="center">work...</h3>
+<h3 align="center">work...</h3>
 
 
 - 🔭 I’m currently working on [linuxutils](https://github.com/ktsobus/linuxutils)
